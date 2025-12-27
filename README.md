@@ -1,4 +1,4 @@
-# Hi there, I'm Abdelrahim 👋
+# Hi there, I'm HICHAM 👋
 
 Welcome to my GitHub profile! I'm Abdelrahim, a passionate developer, lifelong learner, and tech enthusiast. Here you'll find my projects, experiments, and contributions to the open-source community.
 
